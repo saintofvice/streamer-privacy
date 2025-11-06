@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Hide My Name
-// @description  Replaces <WORD> with <ANOTHERWORD>, for example to hide your real name.
+// @description  Replace <WORD> with <ANOTHERWORD>, for example to hide your real name. Dont forget to edit this with your name and DONT show this file on streams.
 // @author     Saint of Vice
 // @include *
 // @run-at     document-end
