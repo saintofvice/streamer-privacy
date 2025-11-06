@@ -1,5 +1,0 @@
-Tools to protect private information for streamers.
-
-Only "hide-my-name.js" right now.
-
-hide-my-name.js: Hides given words (i.e. name and last name) from your browser by replacing it with other words. Install with a userscript manager (.i.e Violentmnokey) and open the file.
