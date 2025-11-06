@@ -2,6 +2,7 @@
 // @name       Hide My Name
 // @description  Replace <WORD> with <ANOTHERWORD>, for example to hide your real name. Dont forget to edit this with your name and DONT show this file on streams.
 // @author     Saint of Vice
+// @license    MIT
 // @include *
 // @run-at     document-end
 // ==/UserScript==
