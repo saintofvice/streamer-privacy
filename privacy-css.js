@@ -12,7 +12,7 @@
 // ==/UserScript==
 GM_addStyle(`
 /* DuckDuckGo */
-[data-layout="ad"] {
+[data-layout="ad"], [data-testid="region-filter-label"] {
   display: none !important;
 }
 `);
